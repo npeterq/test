@@ -1,0 +1,7 @@
+import arithmetic
+
+def calculate(number):
+    return number + 2
+
+print(calculate(4))
+print(arithmetic.calculate(4)
